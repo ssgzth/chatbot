@@ -18,6 +18,10 @@ A document-based chatbot application using LangChain, FAISS vector store, and St
 - `requirements.txt` - Project dependencies
 
 ## Setup and Installation
+Note:
+```
+Use PowerShell/CMD
+```
 
 1. Install dependencies:
 ```PowerShell
