@@ -20,19 +20,19 @@ A document-based chatbot application using LangChain, FAISS vector store, and St
 ## Setup and Installation
 
 1. Install dependencies:
-```bash
+```PowerShell
 pip install -r requirements.txt
 ```
 
 2. Place your documents in the `data` directory
 
 3. Process documents: This will take time
-```bash
+```PowerShell
 python document_processor.py
 ```
 
 4. Run the application:
-```bash
+```PowerShell
 streamlit run app.py
 ```
 
